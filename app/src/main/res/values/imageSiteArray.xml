@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imageSiteArray">
+        <item></item>
+        <item>www.yahoo.com</item>
+        <item>www.flickr.com</item>
+        <item>www.google.com</item>
+    </string-array>
+</resources>

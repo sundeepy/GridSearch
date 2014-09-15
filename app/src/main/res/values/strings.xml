@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_search">Search</string>
+    <string name="title_activity_search_results">SearchResults</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="tv_imageSize">Image Size</string>
+    <string name="tv_colorFilter">Color Filter</string>
+    <string name="tv_imageType">Image Type</string>
+    <string name="tv_siteFilter">Site Filter</string>
+    <string name="bt_saveSettings">Save</string>
+    <string name="image_title">Image title</string>
+
+    <string-array name="settings_size">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>extra-large</item>
+    </string-array>
+    <string-array name="settings_color">
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+    </string-array>
+    <string-array name="settings_type">
+        <item>faces</item>
+        <item>photo</item>
+        <item>clip art</item>
+        <item>line art</item>
+    </string-array>
+    <string-array name="settings_site">
+        <item>google.com</item>
+        <item>yahoo.com</item>
+        <item>imgur.com</item>
+        <item>flickr.com</item>
+    </string-array>
+
+    <string name="title_activity_full_screen_image">Full Screen Image</string>
+    <string name="image_fullscreen">Full Screen Image</string>
+
+</resources>

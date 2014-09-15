@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".image_search" >
+    <item
+        android:id="@+id/miCompose"
+        android:icon="@drawable/ic_hamburger"
+        android:showAsAction="always"
+        android:onClick="onSettingsTap"
+        android:title="@string/action_settings">
+    </item>
+</menu>
